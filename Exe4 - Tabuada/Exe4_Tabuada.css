@@ -1,0 +1,28 @@
+body{
+    background-color: #0a0131;
+    font: normal 15px arial;
+    color: white;
+    text-align: center;
+}
+input{
+    width: 250px;
+    border: 1px solid;
+    border-radius: 5px; 
+}
+button{
+    cursor: pointer;
+}
+section{
+    background-color: white;
+    text-align: left;
+    border-radius: 15px;
+    color: black;
+    padding: 15px;
+    width: 500px;
+    height: 250px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.445);
+}
+footer{
+    font-style: italic;
+}

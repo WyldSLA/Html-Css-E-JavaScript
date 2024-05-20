@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(17, 26, 68);
+    font: normal arial 25px;
+    text-align: center;
+    color: white;
+}
+section{
+    color: black;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.267);
+    border-radius: 15px;
+    margin: auto;
+    background-color: white;
+    width: 450px;
+    height: auto;
+}
+p.KRL{
+    padding-top: 15px;
+}
+p{
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+input{
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid;
+}
+button{
+    font-size: 14px;
+    width: 150px;
+    height: 40px;
+    color: white;
+    border: none;
+    gap: 8px;
+    background-color: rgb(17, 26, 68);
+    border: 1px solid;
+    border-radius: 15px;
+    cursor: pointer;
+}
